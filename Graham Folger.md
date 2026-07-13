@@ -5,7 +5,7 @@ conntected to [[Case-0070107]]
 - constantly scribbling in his notebook, but not taking notes about the classes
 - finds night-time public transport unsetteling
 - lived across the street to [[Amy Patel]]
-- gay
+- gay; ex-bf: [[Antonio Blake]]
 - does bizzare things
 	- reorders his journals without opening them and without any order
 	- randomly takes notebooks off his shelve and starts scribbeling on full pages
