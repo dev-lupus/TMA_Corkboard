@@ -1,0 +1,4 @@
+- sketchy family
+- patrons to [[the Magnus Institute]]
+- own a shipping company
+	- smth odd is happening on one of their ships, the Tundra

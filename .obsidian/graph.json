@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#archive  ",
+      "color": {
+        "a": 1,
+        "rgb": 225808
+      }
+    },
+    {
+      "query": "tag:#anomaly  ",
+      "color": {
+        "a": 1,
+        "rgb": 8851634
+      }
+    },
+    {
+      "query": "tag:#deceased  ",
+      "color": {
+        "a": 1,
+        "rgb": 7163692
+      }
+    },
+    {
+      "query": "tag:#case",
+      "color": {
+        "a": 1,
+        "rgb": 9424096
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 1.29947916666667,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7023319615912205,
+  "close": true
+}
