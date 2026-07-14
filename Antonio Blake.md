@@ -1,4 +1,4 @@
-#person #powers
+#person #anomaly
 
 given statement on [[Case-0151403]]
 
